@@ -15,6 +15,7 @@ ls
 Berpindah ke directori lain.
 contoh:
 cd dokuments
+cd.png
 
 ##5.rmdir
 Menghapus directori yang kosong.
