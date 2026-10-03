@@ -146,12 +146,12 @@ diff file1.txt file2.txt
 Mengubah izin akses file.
 contoh:
 chmod+x script.sh
-![Teks Alternatif]()
+![Teks Alternatif](chmod.png)
 ### 30.chown
 Mengubah pemilik file atau direktori
 contoh:
 sudo chown user file.txt
-![Teks Alternatif](chmod.png)
+![Teks Alternatif](chown.png)
 ### 31.df
 Menampilkan penggunaan ruang penyimpanan.
 contoh:
