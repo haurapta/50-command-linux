@@ -27,12 +27,12 @@ contoh mkdir tes
 Menghapus directori yang kosong.
 contoh:
 mrdir folder_baru
-
+![Teks Alternatif](rm.png)
 ##6.touch
 membuat file kosong.
 contoh:
 touch file.txt
-
+![Teks Alternatif](touch.png)
 ##7.cp
 Menyalin file atau directori
 contoh:
