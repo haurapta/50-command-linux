@@ -5,7 +5,7 @@ Tugas 50 Command Linux/Termux
 Menampilkan lokasi direktori saat ini.
 Contoh:
 pwd
-
+pwd.png
 ##2.ls
 Menampilkan isi directori.
 contoh:
