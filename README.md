@@ -10,6 +10,7 @@ pwd
 Menampilkan isi directori.
 contoh:
 ls
+![Teks Alternatif](ls.png)
 
 ##3.cd
 Berpindah ke directori lain.
