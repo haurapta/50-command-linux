@@ -215,7 +215,7 @@ sudo apt update
 mengelola paket atau software pada sistem berbasi Debian/ubuntu.
 contoh:
 sudo apt update
-![Teks Alternatif](sudo & apt.png)
+![Teks Alternatif](sudo.png)
 ### 44.passwd
 mengubah password pengguna.
 contoh:
