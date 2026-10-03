@@ -57,12 +57,12 @@ cat README.md
 Menampilkan beberapa baris awal dari file.
 Contoh:
 head READMe.md
-![Teks Alternatif]()
+![Teks Alternatif](head.png)
 ### 12.tail
 Menampilkan beberapa baris terakhir dari file.
 contoh:
 tail.README.md
-![Teks Alternatif](head tail.png)
+![Teks Alternatif](headtail.png)
 ### 13.less
 Menampilkan isi file secara bertahap.
 contoh:
@@ -92,7 +92,7 @@ hostname
 Menampilkan informasi sistem linux.
 contoh:
 uname -a
-![Teks Alternatif](uname -a.png)
+![Teks Alternatif](uname-a.png)
 ### 19.date
 Menampilkan informasi site linux
 contoh:
