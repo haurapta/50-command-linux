@@ -223,7 +223,7 @@ uptime
 menampilkan atau mengatur informasi jaringan.
 comtoh:
 ip sr
-![Teks Alternatif](ip sr.png)
+![Teks Alternatif](ipsr.png)
 
 ### 39.ping
 menguji koneksi ke suatu alamat internet.
@@ -296,6 +296,6 @@ digunakan untuk mengelola dan mencatat perubahan pada project menggunkan Git.
 contoh:
 git --version
 ![Teks Alternatif](git.png)
-##nama : haur apta nur syahda
+### nama : haur apta nur syahda
 ##nim :0901382530135
 ##kelas :sku3a
