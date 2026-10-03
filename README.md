@@ -2,7 +2,7 @@
 Tugas 50 Command Linux/Termux
 
 ### 1.pwd
-Menampilkan lokasi direktori saat ini.
+Menampilkan lokasi direktori saat ini. 
 Contoh:
 pwd
 ![Teks Alternatif](pwd.png)
@@ -32,12 +32,12 @@ mrdir folder_baru
 membuat file kosong.
 contoh:
 touch file.txt
-![Teks Alternatif]()
+![Teks Alternatif](touch.png)
 ### 7.cp
 Menyalin file atau directori
 contoh:
 cp file.txt file_backup.txt
-![Teks Alternatif]()
+![Teks Alternatif](cp.png)
 ### 8.mv
 Memindahkan atau mengganti nama file.
 contoh:
