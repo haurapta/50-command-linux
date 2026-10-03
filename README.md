@@ -18,6 +18,11 @@ contoh:
 cd dokuments
 ![Teks Alternatif](cd.png)
 
+##4. mkdir
+membuat directori baru
+contoh mkdir tes
+![Teks Alternatif](tes.png)
+
 ##5.rmdir
 Menghapus directori yang kosong.
 contoh:
