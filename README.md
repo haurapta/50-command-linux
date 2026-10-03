@@ -42,27 +42,27 @@ cp file.txt file_backup.txt
 Memindahkan atau mengganti nama file.
 contoh:
 mv file.txt dokumen.txt
-![Teks Alternatif]()
+![Teks Alternatif](mv.png)
 ##9.rm
 menghapus file.
 contoh:
 rm file.txt
-![Teks Alternatif]()
+![Teks Alternatif](rm.png)
 ##10.cat
 Menampilkan isi file.
 Contoh:
 cat README.md
-![Teks Alternatif]()
+![Teks Alternatif](cat.png)
 ##11.head
 Menampilkan beberapa baris awal dari file.
 Contoh:
 head READMe.md
-![Teks Alternatif]()
+![Teks Alternatif](head tail.png)
 ##12.tail
 Menampilkan beberapa baris terakhir dari file.
 contoh:
 tail.README.md
-![Teks Alternatif]()
+![Teks Alternatif](head tail.png)
 ##13.less
 Menampilkan isi file secara bertahap.
 contoh:
