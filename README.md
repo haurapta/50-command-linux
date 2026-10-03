@@ -106,7 +106,7 @@ cal
 ### 21.history
 Menampilkan riwayat command yang pernah dijalanakan.
 contoh:history
-![Teks Alternatif]()
+![Teks Alternatif](historii.png)
 ### 22.man
 menampilkan manual atau panduan penggunaan command.
 contoh:
