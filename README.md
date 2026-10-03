@@ -21,7 +21,7 @@ cd dokuments
 ##4. mkdir
 membuat directori baru
 contoh mkdir tes
-![Teks Alternatif](tes.png)
+![Teks Alternatif](mkdir.png)
 
 ##5.rmdir
 Menghapus directori yang kosong.
