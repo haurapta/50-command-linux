@@ -1,7 +1,7 @@
 # 50 Command linux
 Tugas 50 Command Linux/Termux
 
-##1.pwd
+###1.pwd
 Menampilkan lokasi direktori saat ini.
 Contoh:
 pwd
